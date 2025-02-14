@@ -18,7 +18,7 @@ Cada célula do grid contém uma poção (que aumenta a energia) ou um monstro (
 
 ## 🧠 Estratégias Utilizadas
 
-- **Algoritmo Gulosa**
+- **Algoritmo Guloso**
 - **Programação Dinâmica**
 
 ## 📝​ Descrição do Projeto
